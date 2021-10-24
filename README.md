@@ -1,2 +1,2 @@
 # nlw-06
- Mission Nodejs
+ Mission Nodejs repositório de treinamento Typescript
