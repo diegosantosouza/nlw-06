@@ -9,9 +9,6 @@ class Tag {
     @Column()
     name: string;
 
-    @Column()
-    slug: string;
-
     @CreateDateColumn()
     created_at: Date;
 
